@@ -1,5 +1,5 @@
 ﻿{
-    "name": "laptrinhphp/vietnamese",
+    "name": "site4com/vietnamese",
     "type": "flarum-extension",
     "description": "Vietnam language pack for Flarum.",
     "keywords": ["locale"],
