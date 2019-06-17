@@ -1,32 +1,29 @@
 ﻿{
-    "name": "site4com/vietnamese",
+    "name": "site4com/lang-vietnamese",
     "type": "flarum-extension",
-    "description": "Vietnam language pack for Flarum.",
+    "description": "Vietnamese language pack.",
+    "homepage": "https://github.com/mrngophu/flarum-vietnamese",
     "keywords": ["locale"],
     "license": "MIT",
-    "homepage": "https://github.com/mrngophu/flarum-vietnamese",
-    "authors": [
-        {
-            "name": "site4com",
-            "email": "team@site4com.net",
-            "homepage": "http://site4com.net"
-        }
-    ],
     "require": {
         "flarum/core": "^0.1.0-beta.8"
     },
     "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        },
         "flarum-extension": {
-            "title": "Tiếng việt",
+            "title": "Vietnamese",
             "icon": {
-                "name": "star",
-                "backgroundColor": "#FF0000",
-                "color": "#FFFF00"
+                "image": "icon.svg",
+                "backgroundColor": "#00247d",
+                "backgroundSize": "cover",
+                "backgroundPosition": "center"
             }
         },
         "flarum-locale": {
             "code": "vi",
-            "title": "Tiếng việt"
+            "title": "Vietnamese"
         }
     }
 }
