@@ -4,7 +4,7 @@
     "description": "Vietnam language pack for Flarum.",
     "keywords": ["locale"],
     "license": "MIT",
-    "homepage": "https://github.com/laptrinhphp/flarum",
+    "homepage": "https://github.com/mrngophu/flarum-vietnamese",
     "authors": [
         {
             "name": "site4com",
