@@ -1,10 +1,23 @@
 ﻿{
     "name": "mrngophu/flarum-vietnamese",
+    "description": "Flarum v0.1.0-beta.8",
+    "keywords": [
+        "flarum",
+        "locale",
+        "Vietnamese"
+    ],
     "type": "flarum-extension",
-    "description": "Vietnamese language pack.",
-    "homepage": "https://github.com/mrngophu/flarum-vietnamese",
-    "keywords": ["locale"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Mr.Phu",
+            "email": "mr.ngophu@gmail.com",
+            "homepage": "https://socnho.com"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/mrngophu/flarum-vietnamese"
+    },
     "require": {
         "flarum/core": "^0.1.0-beta.8"
     },
@@ -13,7 +26,7 @@
             "title": "Vietnamese",
             "icon": {
                 "image": "icon.svg",
-                "backgroundColor": "#00247d",
+                "backgroundColor": "#fff",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
             }
