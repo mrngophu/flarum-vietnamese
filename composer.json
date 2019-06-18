@@ -6,7 +6,8 @@
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
-        "flarum/core": "^0.1.0"
+        "flarum/core": "^0.1.0-beta.8.2",
+        "zendframework/zend-stratigility": "^3.0"
     },
     "extra": {
         "flarum-extension": {
